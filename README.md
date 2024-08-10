@@ -115,7 +115,4 @@ Feel free to experiment with the code and try adjusting the parameters to see ho
 - [Arduino Official Documentation](https://www.arduino.cc/reference/en/)
 - [Introduction to Ultrasonic Sensors](https://www.electronicshub.org/arduino-ultrasonic-sensor/)
 
----
-
-This README provides the essential details for the first lesson and the two hands-on activities. You can further customize this template as needed.
 ```
